@@ -1,0 +1,5 @@
+libcrypt-jwt-perl (0.023-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Álvaro Castellano Vela <alvaro.castellano.vela@gmail.com>  Sat, 15 Sep 2018 15:37:02 +0200
